@@ -2,6 +2,9 @@
 
 A simple task management application with both **CLI** and **Web** interface. Containerized with Docker for easy deployment.
 
+# Screenshot
+![web-app](https://github.com/sohanakhan45566-sudo/task-tracker/blob/main/images/web-app.png)
+
 ## 🚀 Features
 
 - ✅ Add, list, complete, and delete tasks
